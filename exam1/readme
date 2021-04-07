@@ -1,0 +1,2 @@
+Use three interrupt button to select slew, then generate waveform by DAC, use picoscope to see it.
+Analysis the ADCdata and use FFT to plot picture.
